@@ -1,6 +1,7 @@
-//Game Theorey 
+
 
 import java.util.*;
+
 class Solution
 {
     public boolean stoneGameIX(int stones[])
