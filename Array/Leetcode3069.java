@@ -27,15 +27,16 @@ class Solution
                System.out.println(arr1[i]);
                result[i] = arr1[i];
            }
-            System.out.println("\n\n\n");
+            
            
            for(int i=0;i<=k;i++)
            {
               System.out.println(arr2[i]) ;           
               result[j+1]=arr2[i];
+              j++;
            }
            
-           System.out.println("\n\n\n");
+          
            return result;
 
      }

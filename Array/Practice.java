@@ -1,20 +1,26 @@
+class Solution
+{
+    int cnt =0;
+    int f1()
+    {
+      if(cnt==4)
+      {
+        return cnt;
+      }
+      System.out.println(cnt);
+      cnt++;
+      System.out.println(f1());
+
+      return cnt;
+    }
+}
+
+
 public class Practice
 {
     public static void main(String args[])
     {
-        // a='2';
-        //char b='3';
-        String a="12";
-        String b="21";
-        if(a>b)
-        {
-            System.out.println(" A is big");
-        }
-
-        else
-        {
-                          System.out.println(" B is big");
-
-        }
+        Solution s = new Solution();
+        s.f1();
     }
 }
