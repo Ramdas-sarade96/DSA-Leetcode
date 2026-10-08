@@ -36,8 +36,17 @@ and become better at problem solving every day.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Counting
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
