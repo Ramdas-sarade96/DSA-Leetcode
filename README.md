@@ -37,6 +37,7 @@ and become better at problem solving every day.
 | ------- |
 | [0739-daily-temperatures](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3174-clear-digits](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
@@ -46,6 +47,7 @@ and become better at problem solving every day.
 ## String
 |  |
 | ------- |
+| [3174-clear-digits](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -59,4 +61,8 @@ and become better at problem solving every day.
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
