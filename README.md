@@ -31,6 +31,7 @@ and become better at problem solving every day.
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
@@ -65,4 +66,8 @@ and become better at problem solving every day.
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/3174-clear-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Ramdas-sarade96/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
